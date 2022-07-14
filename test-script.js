@@ -1,3 +1,3 @@
 intent('Here is my test script', p => {
-    p.play('OK');
+    p.play('OK, got it');
 })
